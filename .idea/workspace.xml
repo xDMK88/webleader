@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ee3ccfa-b2cf-4413-93b8-5bec75f26063" name="Default Changelist" comment=" - подзадача исчезаеь если нету у неё имени и убираешь фокус с неё при добавлении под задачи&#10; - Отделы добавляются&#10;  - Если название задачи длинное, то в свойствах задачи облачка открываются неправильно (решено)" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/projects-and-emps" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="24rU6r705F1uUirDp2YKfOn6rXX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2021.1.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OpenServer\domains\webleader" />
+      <recent name="C:\OpenServer\domains\webleader\src\css" />
+      <recent name="C:\OpenServer\domains\webleader\src\components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ee3ccfa-b2cf-4413-93b8-5bec75f26063" name="Default Changelist" comment="" />
+      <created>1644388027089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644388027089</updated>
+      <workItem from="1644388029112" duration="16000" />
+      <workItem from="1644388458308" duration="7384000" />
+      <workItem from="1644395954418" duration="674000" />
+      <workItem from="1644396634873" duration="19030000" />
+      <workItem from="1644474141476" duration="26739000" />
+      <workItem from="1644560223183" duration="27473000" />
+      <workItem from="1644818965261" duration="28580000" />
+      <workItem from="1644905608043" duration="23379000" />
+      <workItem from="1644991848674" duration="30407000" />
+      <workItem from="1645078718594" duration="26775000" />
+      <workItem from="1645164865444" duration="27464000" />
+      <workItem from="1645424376998" duration="26024000" />
+      <workItem from="1645769390468" duration="30657000" />
+      <workItem from="1646029316028" duration="26972000" />
+      <workItem from="1646115625590" duration="28107000" />
+      <workItem from="1646201998368" duration="28275000" />
+      <workItem from="1646288217041" duration="29437000" />
+      <workItem from="1646374985872" duration="27903000" />
+      <workItem from="1646460989753" duration="2185000" />
+      <workItem from="1646463209417" duration="24931000" />
+      <workItem from="1646893278634" duration="28186000" />
+      <workItem from="1646979503498" duration="27246000" />
+      <workItem from="1647066610620" duration="23839000" />
+      <workItem from="1647238844700" duration="23621000" />
+      <workItem from="1647325430554" duration="22332000" />
+      <workItem from="1647410735597" duration="28292000" />
+      <workItem from="1647498498079" duration="26462000" />
+      <workItem from="1647581389856" duration="26511000" />
+      <workItem from="1647612753227" duration="98000" />
+      <workItem from="1647844378334" duration="25911000" />
+      <workItem from="1647929140916" duration="31003000" />
+      <workItem from="1648016471078" duration="28603000" />
+      <workItem from="1648102141010" duration="29065000" />
+      <workItem from="1648188770031" duration="25073000" />
+      <workItem from="1648448317025" duration="26250000" />
+      <workItem from="1648480727372" duration="40000" />
+      <workItem from="1648534147073" duration="26447000" />
+      <workItem from="1648620656603" duration="28120000" />
+      <workItem from="1648707373081" duration="28677000" />
+      <workItem from="1648793547158" duration="27077000" />
+      <workItem from="1648881067600" duration="19340000" />
+      <workItem from="1649056767077" duration="23644000" />
+      <workItem from="1649138746078" duration="29436000" />
+      <workItem from="1649226370631" duration="26352000" />
+      <workItem from="1649312061848" duration="25374000" />
+      <workItem from="1649398409168" duration="24870000" />
+      <workItem from="1649657933999" duration="27301000" />
+      <workItem from="1649743681765" duration="26409000" />
+      <workItem from="1649830381496" duration="28012000" />
+      <workItem from="1649916377830" duration="28314000" />
+      <workItem from="1650002722459" duration="25169000" />
+      <workItem from="1650262768502" duration="1364000" />
+      <workItem from="1650437550163" duration="26472000" />
+      <workItem from="1650521784589" duration="26748000" />
+      <workItem from="1650607537795" duration="28366000" />
+      <workItem from="1650954092558" duration="7000" />
+      <workItem from="1651045444857" duration="46000" />
+      <workItem from="1651045494284" duration="1365000" />
+      <workItem from="1651047249760" duration="22073000" />
+      <workItem from="1651125229300" duration="30497000" />
+      <workItem from="1651211899905" duration="27658000" />
+      <workItem from="1651643458343" duration="488000" />
+    </task>
+    <task id="LOCAL-00031" summary="За сегодня&#10; - Метки, Проекты, Поручения, доступы. чеклист, фокус обновляются без перезагрузки страницы&#10; - Комментарии можно оставить без перезагрузки страницы">
+      <created>1647612799596</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1647612799596</updated>
+    </task>
+    <task id="LOCAL-00032" summary="За сегодня&#10; - Изменены всплывающее окна на свойствах задач (приближенные к Мак версии)&#10; - Появилась возможеность переименовывать задачу&#10; - Изменен календарь согласно дизайну">
+      <created>1647874934478</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1647874934478</updated>
+    </task>
+    <task id="LOCAL-00033" summary="За сегодня&#10; - Сделан сброс настроек свойств задач&#10; - Переделаны всплывающие окна. ( Сделано как на маке)">
+      <created>1647962745923</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1647962745923</updated>
+    </task>
+    <task id="LOCAL-00034" summary="За сегодня&#10; - Отражение файлов ввиде чата или документа или аудио&#10; - Поправки по всплывающему окну.&#10; - Календарь дизайн">
+      <created>1648047125694</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1648047125694</updated>
+    </task>
+    <task id="LOCAL-00035" summary="За сегодня&#10; - Отражение файлов ввиде чата или документа или аудио&#10; - Поправки по всплывающему окну.&#10; - Календарь дизайн">
+      <created>1648047405019</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1648047405019</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Фикс с заметкой">
+      <created>1648107362531</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1648107362531</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Фикс с заметкой">
+      <created>1648108833985</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1648108833985</updated>
+    </task>
+    <task id="LOCAL-00038" summary="За сегодня&#10; - Сделаны переходы по датам&#10; - Сделан визуально календарь&#10; - Поправлено часть всплыващих окон&#10; - Уменьшил крестики для сброса данных в свойствах задач как на маке">
+      <created>1648134366339</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1648134366339</updated>
+    </task>
+    <task id="LOCAL-00039" summary="За сегодня&#10; - Сделаны переходы по датам&#10; - Сделан визуально календарь&#10; - Поправлено часть всплыващих окон&#10; - Уменьшил крестики для сброса данных в свойствах задач как на маке">
+      <created>1648134798141</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1648134798141</updated>
+    </task>
+    <task id="LOCAL-00040" summary="За сегодня&#10; - Поправки в комментариях ( оставить сообщение ) +&#10; - Поставил галочки всплывающих окнах другие +&#10; - Появилась возможность копировать ссылки задачи + &#10; - Поправить все всплывающие окна в свойствах задач частично&#10; - Иконки поставить для файлов +">
+      <created>1648220092450</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1648220092450</updated>
+    </task>
+    <task id="LOCAL-00041" summary=" За сегодня &#10; - Поправил комментарии( работают переносы, ссылки пока нет)&#10; - Поправил всплывающие окна">
+      <created>1648473692546</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1648473692546</updated>
+    </task>
+    <task id="LOCAL-00042" summary=" За сегодня &#10; - Поправил комментарии( работают переносы, ссылки пока нет)&#10; - Поправил всплывающие окна">
+      <created>1648480746697</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1648480746697</updated>
+    </task>
+    <task id="LOCAL-00043" summary="За сегодня&#10; - Подсказка по цветам">
+      <created>1648546158730</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1648546158730</updated>
+    </task>
+    <task id="LOCAL-00044" summary="За сегодня&#10; - Подсказка по цветам&#10; - Сверстан и подтянуты данные всплывающие окно повтор на 80%&#10; - Сделана ссылка в комментариях">
+      <created>1648620968316</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1648620968316</updated>
+    </task>
+    <task id="LOCAL-00045" summary="За сегодня&#10; - Выведенные все данные в всплывающее окно повтор&#10; - Доделан дизайн всплывающего окна повтор&#10; - Ссылки в заметках и в чате работает">
+      <created>1648653161210</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1648653161210</updated>
+    </task>
+    <task id="LOCAL-00046" summary="За сегодня&#10; - Выведенные все данные в всплывающее окно повтор&#10; - Доделан дизайн всплывающего окна повтор&#10; - Ссылки в заметках и в чате работает">
+      <created>1648653240192</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1648653240192</updated>
+    </task>
+    <task id="LOCAL-00047" summary="За сегодня:&#10; - Удалить задачу из свойств нельзя без подтверждения&#10; - Сделать вывод календаря и напоминание">
+      <created>1648739666349</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1648739666349</updated>
+    </task>
+    <task id="LOCAL-00048" summary="За вчера:&#10; - Удалить задачу из свойств нельзя без подтверждения&#10; - Сделать вывод календаря и напоминание">
+      <created>1648794695669</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1648794695669</updated>
+    </task>
+    <task id="LOCAL-00049" summary="За вчера:&#10; - Баг с доступом при выборе">
+      <created>1648806761373</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1648806761373</updated>
+    </task>
+    <task id="LOCAL-00050" summary="За сегодня&#10; - Доступы исправлены&#10; - Поправлен календарь после выбора даты">
+      <created>1648819889966</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1648819889968</updated>
+    </task>
+    <task id="LOCAL-00051" summary="&#10;За сегодня&#10; - Доступы исправлены&#10; - Поправлен календарь после выбора даты&#10; - Добавил кнопки сброса на всех свойствах&#10; - Работает сброс ввиде крестика на всех свойствах кроме порученного сотрудника&#10; - убрал белый фон на крестике&#10; - Убрал дублирующий фокус&#10; - убрал баг с фокусом, когда после его нажатия не работали доступы и некоторые свойства задач">
+      <created>1648826294148</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1648826294148</updated>
+    </task>
+    <task id="LOCAL-00052" summary="За сегодня на тякущий момент6&#10; - Убран баг с доступом&#10; - Поручения с именами без email&#10; - доступы с и менами и без email&#10; - три точки при наведение появляется окно и скрывается если убрать мышку&#10; - поправки были в календаре&#10; - фокус и все свойства задач с крестиком и нажимается&#10; - все сообщения раздел с отступом под названием&#10; - оставить описание стало больше пространства&#10; - и появилась надпись оставить сообщение">
+      <created>1648910423197</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1648910423197</updated>
+    </task>
+    <task id="LOCAL-00053" summary="За сегодня&#10; - Убрал возможность переноса текста в названии задачи&#10; - Убрал самого себя из списка пользователей доступа и поручить&#10; - Исправил баг с комментариями на всех устройствах теперь одинаково&#10; - Для типов 4 и 1 поправлены облачка свойств&#10; - Ссылка работает в оставьте заметку ( для редактирования заметки надо нажать на пустое место или текст самой заметки )&#10; - Cохраняет после перехода между задачами">
+      <created>1649086202812</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1649086202813</updated>
+    </task>
+    <task id="LOCAL-00054" summary="За сегодня: &#10; - ссылки в названии задач">
+      <created>1649141034280</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1649141034281</updated>
+    </task>
+    <task id="LOCAL-00055" summary="За сегодня: &#10; - ссылки в названии задач&#10; - Подкорректирован визуально дату и время напоминание (пока не выберишь число не появится время) и есть возможность сбросить и пока не нажмешь применить дата не установится. Если убрать мышка со всплывающего окна календаря диапазон чисел исчезнет.&#10; - Поправил окно ошибок, которая заслоняла хождение по навигации слева, а также оставить сообщение или прикрепить файл&#10; - Перемещение к последнему сообщению в чате по кнопке показать все&#10; - не теряется фокус после отправки сообщения&#10; - Скролл перемещается даже когда прикрепляешь файл">
+      <created>1649171121729</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1649171121729</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Изменение в стилях сайта">
+      <created>1649226498498</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1649226498498</updated>
+    </task>
+    <task id="LOCAL-00057" summary="За сегодня&#10; - В чате возможен перенос строки по shift + enter&#10; - Баг с Датой решен&#10; - Исправлен строка отправки сообщений с возможностью shift + enter перенос строки&#10; - Внес поправки с метками, стало меньше багов (сохраняет без ошибок, сброс до последней метки без ошибок)">
+      <created>1649256952037</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1649256952037</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Обновил надпись введите сообщение">
+      <created>1649257641869</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1649257641869</updated>
+    </task>
+    <task id="LOCAL-00059" summary="За сегодня&#10; - Возможно добавить чеклист как в маке (есть баги)&#10; - Возможно редактировать чеклист (есть баги)&#10; - Возможно добавлять пункты чеклиста (есть баги)">
+      <created>1649340937453</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1649340937454</updated>
+    </task>
+    <task id="LOCAL-00060" summary="За сегодня &#10; - Сделан чеклист (функционально)">
+      <created>1649430360684</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1649430360684</updated>
+    </task>
+    <task id="LOCAL-00061" summary="За сегодня: &#10; - Загрузка сразу несколько файлов&#10; - Повтор CRUD подключен ( Сам повтор ещё не обновляется)&#10; - Исправлен баг с изменением и удалением элементов чеклиста">
+      <created>1649691527242</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1649691527243</updated>
+    </task>
+    <task id="LOCAL-00062" summary="За сегодня:&#10; - Сделана вставка файлов в чат задачи из буфера обмена с предосмотром&#10; файлы загружаеются автоматически как то вставил">
+      <created>1649775239895</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1649775239896</updated>
+    </task>
+    <task id="LOCAL-00063" summary="За сегодня:&#10; - Сделана вставка файлов в чат задачи из буфера обмена с предосмотром&#10; файлы загружаеются автоматически как то вставил">
+      <created>1649775448281</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1649775448281</updated>
+    </task>
+    <task id="LOCAL-00064" summary="За сегодня: &#10; - Сделана визуальная часть календаря&#10; - Сделан сброс повтора">
+      <created>1649862751896</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1649862751896</updated>
+    </task>
+    <task id="LOCAL-00065" summary="За сегодня&#10; - Сделан дизайн повтора&#10; - Частично сделан CRUD (Сброс, ежедневно, еженедльно с багом)">
+      <created>1649948392296</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1649948392296</updated>
+    </task>
+    <task id="LOCAL-00066" summary="За сегодня&#10; - Обновление">
+      <created>1650003042077</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1650003042078</updated>
+    </task>
+    <task id="LOCAL-00067" summary="За сегодня&#10; - CRUD повтора сделан с багами">
+      <created>1650033140632</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1650033140632</updated>
+    </task>
+    <task id="LOCAL-00068" summary="За сегодня&#10; - исправлена функция повтор">
+      <created>1650460557385</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1650460557385</updated>
+    </task>
+    <task id="LOCAL-00069" summary="За сегодня:&#10; - Сервер запущен как служба node js&#10; - Повтор устанавливается&#10; - Увеличивается поле сообщение при вводе сообщения&#10; - Не работал фокус в свойствах задачи">
+      <created>1650467734113</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1650467734113</updated>
+    </task>
+    <task id="LOCAL-00070" summary=" - исправил баг на ежегодный&#10; - В названии задачи НЕ должны переноситься строки по нажатию на Enter (Исправлено)">
+      <created>1650534831723</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1650534831723</updated>
+    </task>
+    <task id="LOCAL-00071" summary="За сегодня: &#10; - Исправил баг на ежегодный в повторе&#10; - В названии задачи НЕ должны переноситься строки по нажатию на Enter (Исправлено)&#10; - Если через свойства задачи удалить задачу, то свойства задачи не закрываются (исправлено)&#10; - В названии задачи сейчас ограничение по символам (исправлено)&#10; - При поручении задачи на сотрудника создаётся новый сотрудник с именем null и задача отправляется на null ( Исправлено)&#10; - Нет возможности взять задачу на Исполнение (исправлено)&#10; - Кнопка &quot;Перепоручить&quot; не работает (исправлено)&#10; - При нажатии Ctrl+V в диалоге задач скриншот не обновляется после перехода в другую задачу (частично)">
+      <created>1650552335607</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1650552335607</updated>
+    </task>
+    <task id="LOCAL-00072" summary="за сегодня: &#10; - Перепоручить и взять на исполнение исправить баг (поправлено)&#10; - Исправление в календаре со периодом времени и его появлении (поправлно)&#10; - Убраны ограничение по названию метки&#10; - Поправил модальное окно в свойствах задач, когда удаляешь задачу. (пишет название задачи)">
+      <created>1650638953002</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1650638953002</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Обновление с чатом">
+      <created>1650639971661</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1650639971661</updated>
+    </task>
+    <task id="LOCAL-00074" summary="&#10;&#10;За сегодня: &#10; - Баг - не показывать кнопку Повтора в свойствах задачи пока не установлена дата (повтор всегда есть)&#10; - Недоработка - При нажатии на кнопку Чек-лист и потом нажатии в любое другое место скрывать пустой чек-лист и кнопку Добавить к нему (Не нашел исчезает после смены задачи)&#10; - Невозможно удалить сотрудника, если сотрудники отображаются в сетку (не работает кнопка) Кнопка работает. Проверить не удалось&#10; - Выбор в повторе дней недели можно и мышкой зажав кнопку мыши.">
+      <created>1651071645724</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1651071645725</updated>
+    </task>
+    <task id="LOCAL-00075" summary=" Чеклист исчезает если теряет фокус &#10; и повтор переделан внешний вид по дня ежедневно">
+      <created>1651137746337</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1651137746337</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Изменнеие сохранения дней в разделе повтора еженедельное">
+      <created>1651153276342</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1651153276342</updated>
+    </task>
+    <task id="LOCAL-00077" summary=" - При удалении задачи (в том числе через свойства) должно вылезать окно &quot;Вы действительно хотите удалить выбранные задачи (с подзадачами) в количестве: 1&quot; (считает количество только когда подзадачи раскрыты)">
+      <created>1651157474080</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1651157474080</updated>
+    </task>
+    <task id="LOCAL-00078" summary=" - подзадача исчезаеь если нету у неё имени и убираешь фокус с неё при добавлении под задачи&#10; - Отделы добавляются">
+      <created>1651233321232</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1651233321232</updated>
+    </task>
+    <task id="LOCAL-00079" summary=" - подзадача исчезаеь если нету у неё имени и убираешь фокус с неё при добавлении под задачи&#10; - Отделы добавляются&#10;  - Если название задачи длинное, то в свойствах задачи облачка открываются неправильно (решено)">
+      <created>1651238276212</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1651238276212</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="127" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="projects-and-emps" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="За сегодня: &#10; - ссылки в названии задач&#10; - Подкорректирован визуально дату и время напоминание (пока не выберишь число не появится время) и есть возможность сбросить и пока не нажмешь применить дата не установится. Если убрать мышка со всплывающего окна календаря диапазон чисел исчезнет.&#10; - Поправил окно ошибок, которая заслоняла хождение по навигации слева, а также оставить сообщение или прикрепить файл&#10; - Перемещение к последнему сообщению в чате по кнопке показать все&#10; - не теряется фокус после отправки сообщения&#10; - Скролл перемещается даже когда прикрепляешь файл" />
+    <MESSAGE value="Изменение в стилях сайта" />
+    <MESSAGE value="За сегодня&#10; - В чате возможен перенос строки по shift + enter&#10; - Баг с Датой решен&#10; - Исправлен строка отправки сообщений с возможностью shift + enter перенос строки&#10; - Внес поправки с метками, стало меньше багов (сохраняет без ошибок, сброс до последней метки без ошибок)" />
+    <MESSAGE value="Обновил надпись введите сообщение" />
+    <MESSAGE value="За сегодня&#10; - Возможно добавить чеклист как в маке (есть баги)&#10; - Возможно редактировать чеклист (есть баги)&#10; - Возможно добавлять пункты чеклиста (есть баги)" />
+    <MESSAGE value="За сегодня &#10; - Сделан чеклист (функционально)" />
+    <MESSAGE value="За сегодня: &#10; - Загрузка сразу несколько файлов&#10; - Повтор CRUD подключен ( Сам повтор ещё не обновляется)&#10; - Исправлен баг с изменением и удалением элементов чеклиста" />
+    <MESSAGE value="За сегодня:&#10; - Сделана вставка файлов в чат задачи из буфера обмена с предосмотром&#10; файлы загружаеются автоматически как то вставил" />
+    <MESSAGE value="За сегодня: &#10; - Сделана визуальная часть календаря&#10; - Сделан сброс повтора" />
+    <MESSAGE value="За сегодня&#10; - Сделан дизайн повтора&#10; - Частично сделан CRUD (Сброс, ежедневно, еженедльно с багом)" />
+    <MESSAGE value="За сегодня&#10; - Обновление" />
+    <MESSAGE value="За сегодня&#10; - CRUD повтора сделан с багами" />
+    <MESSAGE value="За сегодня&#10; - исправлена функция повтор" />
+    <MESSAGE value="За сегодня:&#10; - Сервер запущен как служба node js&#10; - Повтор устанавливается&#10; - Увеличивается поле сообщение при вводе сообщения&#10; - Не работал фокус в свойствах задачи" />
+    <MESSAGE value=" - исправил баг на ежегодный&#10; - В названии задачи НЕ должны переноситься строки по нажатию на Enter (Исправлено)" />
+    <MESSAGE value="За сегодня: &#10; - Исправил баг на ежегодный в повторе&#10; - В названии задачи НЕ должны переноситься строки по нажатию на Enter (Исправлено)&#10; - Если через свойства задачи удалить задачу, то свойства задачи не закрываются (исправлено)&#10; - В названии задачи сейчас ограничение по символам (исправлено)&#10; - При поручении задачи на сотрудника создаётся новый сотрудник с именем null и задача отправляется на null ( Исправлено)&#10; - Нет возможности взять задачу на Исполнение (исправлено)&#10; - Кнопка &quot;Перепоручить&quot; не работает (исправлено)&#10; - При нажатии Ctrl+V в диалоге задач скриншот не обновляется после перехода в другую задачу (частично)" />
+    <MESSAGE value="за сегодня: &#10; - Перепоручить и взять на исполнение исправить баг (поправлено)&#10; - Исправление в календаре со периодом времени и его появлении (поправлно)&#10; - Убраны ограничение по названию метки&#10; - Поправил модальное окно в свойствах задач, когда удаляешь задачу. (пишет название задачи)" />
+    <MESSAGE value="Обновление с чатом" />
+    <MESSAGE value="&#10;&#10;За сегодня: &#10; - Баг - не показывать кнопку Повтора в свойствах задачи пока не установлена дата (повтор всегда есть)&#10; - Недоработка - При нажатии на кнопку Чек-лист и потом нажатии в любое другое место скрывать пустой чек-лист и кнопку Добавить к нему (Не нашел исчезает после смены задачи)&#10; - Невозможно удалить сотрудника, если сотрудники отображаются в сетку (не работает кнопка) Кнопка работает. Проверить не удалось&#10; - Выбор в повторе дней недели можно и мышкой зажав кнопку мыши." />
+    <MESSAGE value=" Чеклист исчезает если теряет фокус &#10; и повтор переделан внешний вид по дня ежедневно" />
+    <MESSAGE value="Изменнеие сохранения дней в разделе повтора еженедельное" />
+    <MESSAGE value=" - При удалении задачи (в том числе через свойства) должно вылезать окно &quot;Вы действительно хотите удалить выбранные задачи (с подзадачами) в количестве: 1&quot; (считает количество только когда подзадачи раскрыты)" />
+    <MESSAGE value="123" />
+    <MESSAGE value=" - подзадача исчезаеь если нету у неё имени и убираешь фокус с неё при добавлении под задачи&#10; - Отделы добавляются" />
+    <MESSAGE value=" - подзадача исчезаеь если нету у неё имени и убираешь фокус с неё при добавлении под задачи&#10; - Отделы добавляются&#10;  - Если название задачи длинное, то в свойствах задачи облачка открываются неправильно (решено)" />
+    <option name="LAST_COMMIT_MESSAGE" value=" - подзадача исчезаеь если нету у неё имени и убираешь фокус с неё при добавлении под задачи&#10; - Отделы добавляются&#10;  - Если название задачи длинное, то в свойствах задачи облачка открываются неправильно (решено)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/NodeTree.vue</url>
+          <line>13</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/v-calendar/lib/vcalendar.esm.js</url>
+          <line>11576</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/TreeTagsItem.vue</url>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/store/modules/calendar.js</url>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/properties/TaskProperties.vue</url>
+          <line>647</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/properties/TaskProperties.vue</url>
+          <line>636</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/store/modules/tasks.js</url>
+          <line>39</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/properties/TaskProperties.vue</url>
+          <line>1507</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/properties/TaskProperties.vue</url>
+          <line>1730</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/store/modules/tasks.js</url>
+          <line>916</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/properties/TaskProperties.vue</url>
+          <line>1901</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
