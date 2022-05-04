@@ -1,0 +1,15 @@
+node_modules/
+dist/
+dist.zip
+public/hot
+public/storage
+storage/*.key
+package-lock.json
+vendor
+yarn.lock
+.env.local
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+.idea
+.vscode
